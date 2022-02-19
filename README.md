@@ -1,5 +1,5 @@
 # StackOverflow2021SurveyResultsAnalysis
-An EDA and Visualization project on 2021 StackOverflow Survey results - https://insights.stackoverflow.com/survey
+A python-jupyter EDA and Visualization project on 2021 StackOverflow Survey results - https://insights.stackoverflow.com/survey
 
 Includes User Demographics, Programming & Dev experience, Employment Analysis on the results of survey by StackOverflow in 2021. 
 
