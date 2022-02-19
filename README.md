@@ -3,4 +3,5 @@ An EDA and Visualization project on 2021 StackOverflow Survey results - https://
 
 Includes User Demographics, Programming & Dev experience, Employment Analysis on the results of survey by StackOverflow in 2021. 
 
-To view the complete ipynb file along with the interactive plot, please head on to: https://nbviewer.org/github/SARIT42/StackOverflow2021SurveyResultsAnalysis/blob/main/StackOverflow2021_Analysis.ipynb
+*RECOMMENDED:*
+TO VIEW THE COMPLETE IPYNB FILE ALONG WITH THE INTERACTIVE PLOTS, PLEASE HEAD ON TO: https://nbviewer.org/github/SARIT42/StackOverflow2021SurveyResultsAnalysis/blob/main/StackOverflow2021_Analysis.ipynb
